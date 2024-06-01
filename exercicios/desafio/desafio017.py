@@ -1,5 +1,6 @@
 # Programa para calcular comprimento do cateto oposto e o adjacente de um triangulo retangulo, calcular e mostre o comprimento da hipotenusa.
-#módulo importado
+
+#módulo math importado para usar função pow e sqrt no Teorema de Pitágoras
 import math
 
 # main-----------
