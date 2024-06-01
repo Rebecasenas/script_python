@@ -31,7 +31,24 @@ Para executar os scripts deste repositório, você precisará ter o Python insta
     Exemplo: ex001.py
 
 ## Descrição dos Scripts
-    ex001.py: (aqui a descrição)
+    ex001.py: Este programa imprime a mensagem "Olá mundo!" na tela.
+    ex002.py: Este programa solicita ao usuário que digite seu nome e o imprime em uma mensagem de boas-vindas.
+    ex003.py:  Este programa solicita ao usuário dois números inteiros, calcula a soma deles e imprime o resultado.
+    ex004.py: (aqui o conteúdo)
+    ex005.py: (aqui o conteúdo)
+    ex006.py: (aqui o conteúdo)
+    ex007.py: (aqui o conteúdo)
+    ex008.py: (aqui o conteúdo)
+    ex009.py: (aqui o conteúdo)
+    ex010.py: (aqui o conteúdo)
+    ex011.py: (aqui o conteúdo)
+    ex012.py: (aqui o conteúdo)
+    ex013.py: (aqui o conteúdo)
+    ex014.py: (aqui o conteúdo)
+    ex015.py: (aqui o conteúdo)
+
+    
+
 
 ## Contribuição
 
