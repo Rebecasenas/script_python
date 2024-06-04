@@ -59,6 +59,12 @@ Para executar os scripts deste repositório, você precisará ter o Python insta
 
     ex018.py: Neste programa, o usuário é solicitado a fornecer um ângulo em graus. O código então calcula o seno, cosseno e tangente desse ângulo, convertendo-o primeiro para radianos usando a função radians() do módulo math. Os resultados são exibidos com duas casas decimais. Cada parte do código é acompanhada por um comentário explicativo.
 
+    ex019.py: Este programa solicita que o usuário insira os nomes de quatro alunos, armazenando esses nomes em uma lista. Em seguida, ele escolhe aleatoriamente um dos nomes da lista e o imprime como o aluno escolhido.
+
+    ex020.py: Programa Python que solicita ao usuário os nomes de quatro alunos, embaralha aleatoriamente esses nomes e imprime a ordem do sorteio.
+
+    ex021.py:  Programa para reproduzir mp3 num programa python.
+
     
 
 
@@ -66,4 +72,4 @@ Para executar os scripts deste repositório, você precisará ter o Python insta
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, novos scripts ou correções de bugs, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
+## Licença,
